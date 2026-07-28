@@ -2,4 +2,4 @@
  (name serapi)
  (public_name coq-serapi.serapi_v8_14)
  (synopsis "Serialization Protocol for Coq")
- (libraries coq-core.stm coq-core.plugins.ltac sexplib base))
+ (libraries rocq-runtime.stm rocq-runtime.plugins.ltac sexplib base))
